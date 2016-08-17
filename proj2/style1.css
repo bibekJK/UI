@@ -1,0 +1,16 @@
+	#unorderedlist {
+		background-color: red;
+		width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+		
+	}
+	#orderedlist {
+		background-color: blue;
+		padding-top:100px;
+    padding-right:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+		
+	}
